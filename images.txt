@@ -1,4 +1,4 @@
-searxng/searxng
+--platform=linux/arm64 searxng/searxng
 # nginx
 # redis:6-alpine
 # postgres:15-alpine
