@@ -1,4 +1,5 @@
 --platform=linux/arm64 searxng/searxng
+--platform=linux/arm64 docker.stirlingpdf.com/stirlingtools/stirling-pdf
 # nginx
 # redis:6-alpine
 # postgres:15-alpine
