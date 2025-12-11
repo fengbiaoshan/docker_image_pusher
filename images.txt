@@ -1,8 +1,6 @@
 
---platform=linux/arm64 ghcr.io/comet-ml/opik/opik-frontend:latest
---platform=linux/arm64 ghcr.io/comet-ml/opik/opik-guardrails-backend:1.9.36
 
-
+ghcr.io/comet-ml/opik/opik-guardrails-backend:latest
 
 # --platform=linux/arm64 searxng/searxng
 # --platform=linux/arm64 docker.stirlingpdf.com/stirlingtools/stirling-pdf
