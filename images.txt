@@ -1,6 +1,23 @@
+--platform=linux/arm64 mysql:8.4.2
+--platform=linux/arm64 redis:7.2.4-alpine3.19
+--platform=linux/arm64 alpine:latest
+--platform=linux/arm64 clickhouse/clickhouse-server:25.3.6.56-alpine
+--platform=linux/arm64 docker.io/bitnamilegacy/zookeeper:3.9.3-debian-12-r16
+--platform=linux/arm64 minio/minio:RELEASE.2025-03-12T18-04-18Z
+--platform=linux/arm64 minio/mc:RELEASE.2025-03-12T17-29-24Z
+--platform=linux/arm64 ghcr.io/comet-ml/opik/opik-backend:latest
+--platform=linux/arm64 ghcr.io/comet-ml/opik/opik-python-backend:latest
+--platform=linux/arm64 ghcr.io/comet-ml/opik/opik-guardrails-backend:latest
+--platform=linux/arm64 ghcr.io/comet-ml/opik/opik-python-backend:latest
+--platform=linux/arm64 ghcr.io/comet-ml/opik/opik-frontend:latest
+
+
+
+
+
 # --platform=linux/arm64 searxng/searxng
 # --platform=linux/arm64 docker.stirlingpdf.com/stirlingtools/stirling-pdf
---platform=linux/arm64 docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest-fat
+# --platform=linux/arm64 docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest-fat
 # nginx
 # redis:6-alpine
 # postgres:15-alpine
